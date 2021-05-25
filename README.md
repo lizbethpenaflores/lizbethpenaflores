@@ -1,3 +1,6 @@
+# Introduction
+
+
 - 👋 Hi, I’m Liz!
 - 🌱 I’m currently learning how to code!
 
